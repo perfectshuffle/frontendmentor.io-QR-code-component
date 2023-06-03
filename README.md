@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/solution-using-html-and-css-flexbox-QF2eMqKn7K)
-- Live Site URL: [live site](https://perfectshuffle.github.io/frontendmentor.io-QR-code-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/solution-using-html-and-css-flexbox-QF2eMqKn7K](https://www.frontendmentor.io/solutions/solution-using-html-and-css-flexbox-QF2eMqKn7K)
+- Live Site URL: [https://perfectshuffle.github.io/frontendmentor.io-QR-code-component/](https://perfectshuffle.github.io/frontendmentor.io-QR-code-component/)
 
 <hr>
 
